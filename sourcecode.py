@@ -39,7 +39,7 @@ from datetime import datetime
 #define function for chromedriver
 def chromedriver():
     #specify the path to ChromeDriver
-    chrome_driver_path = "C:\\Users\\nahmadshaarani\\OneDrive - Internet Securities, LLC\\Desktop\\ChromeDriver\\chromedriver129.exe"
+    chrome_driver_path = "C:\\Users\\nahmadshaarani\\Desktop\\ChromeDriver\\chromedriver129.exe"
     options = Options()
     options.add_experimental_option("detach", True)
 
